@@ -3,7 +3,7 @@
 I'm Rümeysa. I will graguate from Computer Engineering in Ondokuz Mayıs University soon. I hope my repositories helps you.
 
 📫 How to reach me:
-Email: rumeysa.okur@bil.omu.edu.tr
+Email: rumeysa.okur@bil.omu.edu.tr </br>
 Linkedin: https://www.linkedin.com/in/rümeysaokur/
 
 <!--
