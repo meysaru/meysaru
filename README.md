@@ -1,5 +1,7 @@
 #### Hi there 👋
 
+- I'm Rümeysa. I graguated from Computer Engineering in Ondokuz Mayıs Universitty. 
+
 
 <!--
 **meysaru/meysaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
