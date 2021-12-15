@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-- I'm Rümeysa. I graguated from Computer Engineering in Ondokuz Mayıs Universitty. 
+I'm Rümeysa. I graguated from Computer Engineering in Ondokuz Mayıs Universitty. 
 
 
 <!--
