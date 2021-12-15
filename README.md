@@ -4,6 +4,7 @@ I'm Rümeysa. I will graguate from Computer Engineering in Ondokuz Mayıs Univer
 
 📫 How to reach me:
 Email: rumeysa.okur@bil.omu.edu.tr </br>
+</br>
 Linkedin: https://www.linkedin.com/in/rümeysaokur/
 
 <!--
