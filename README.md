@@ -1,4 +1,4 @@
-#### Hi there welcome to my profile👋
+#### Hi there, welcome to my profile👋
 
 I'm Rümeysa. I will graguate from Computer Engineering in Ondokuz Mayıs University soon. I hope my repositories helps you.
 
