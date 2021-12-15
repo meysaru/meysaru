@@ -1,7 +1,10 @@
 #### Hi there welcome to my profile👋
 
-I'm Rümeysa. I graguated from Computer Engineering in Ondokuz Mayıs University. I hope my repositories helps you.
+I'm Rümeysa. I will graguate from Computer Engineering in Ondokuz Mayıs University soon. I hope my repositories helps you.
 
+📫 How to reach me:
+Email: rumeysa.okur@bil.omu.edu.tr
+Linkedin: https://www.linkedin.com/in/rümeysaokur/
 
 <!--
 **meysaru/meysaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
