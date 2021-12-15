@@ -1,6 +1,6 @@
-#### Hi there 👋
+#### Hi there welcome to my profile👋
 
-I'm Rümeysa. I graguated from Computer Engineering in Ondokuz Mayıs Universitty. 
+I'm Rümeysa. I graguated from Computer Engineering in Ondokuz Mayıs University. I hope my repositories helps you.
 
 
 <!--
